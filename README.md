@@ -8,10 +8,10 @@
 
 ### My scientific and programming interests :
 
--   Computational biology  🧬  gene-environment interactions  🌿
--   Sequencing data analysis (e.g. RNA-seq, CHIP-Seq, ATAC-seq)
 -   Data Science  📊  and machine learning  🤖
 -   Workflow management and MLOps
+-   Computational biology  🧬  gene-environment interactions  🌿
+-   Sequencing data analysis (e.g. RNA-seq, CHIP-Seq, ATAC-seq)
 -   Web applications  💻
 
 ### 📫 How to reach me: 
