@@ -3,7 +3,7 @@
 
 #### I am data science enthusiast now pursuing a Master's in Computer Science in [ Dr. Nadia Tahiri's lab!](https://tahirinadia.github.io//).
 
-#### I am also a Fintech :bank: :moneybag: :chart_with_upwards_trend: Data Science Student at University of Toronto.
+#### I am also a Fintech :bank: :moneybag: :chart_with_upwards_trend: Data Science Student at the University of Toronto.
 
 ### 🔭 Skills: 
 - Python / R / SAS / SQL / Snakemake
