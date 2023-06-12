@@ -21,7 +21,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanlinLi2021&show_icons=true&theme=transparent) 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanlinLi2021&show_icons=true&theme=transparent)  -->
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=WanlinLi2021)  
 
 
