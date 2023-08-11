@@ -1,10 +1,6 @@
 ### Hello,👋 I'm [Wanlin!](https://wanlinli2021.github.io/Wanlin.github.io/)
 
 
-#### I am data science enthusiast now pursuing a Master's in Computer Science in [ Dr. Nadia Tahiri's lab!](https://tahirinadia.github.io//).
-
-#### I am also a Fintech :bank: :moneybag: :chart_with_upwards_trend: Data Science Student at the University of Toronto.
-
 ### 🔭 Skills: 
 - Python / R / SAS / SQL / Snakemake
 
