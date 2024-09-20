@@ -2,7 +2,7 @@
 
 
 ### 🔭 Skills: 
-- Python / R / SAS / SQL / Snakemake / Neo4j
+- Python / JavaScript / R / SAS / SQL / Snakemake / Neo4j
 
 ### My scientific and programming interests :
 
