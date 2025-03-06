@@ -16,13 +16,8 @@
 - wanlinli2018@gmail.com
 
 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanlinLi2021&show_icons=true&theme=transparent)  -->
-![GitHub streak stats](https://streak-stats.demolab.com/?user=WanlinLi2021)  
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wanlin-li-825bb4197/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lin2310lin)  
+
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wanlinli2021.github.io/Wanlin.github.io/)  -->
 
 
